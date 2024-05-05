@@ -127,13 +127,13 @@ atom.absorbEnergy();
 atom.emitRadiation();
 
 //  9)
-//  Noun:       vocal folds
-//  action 1:   the vocal folds can open
-vocalFolds.open();
-//  action 2:   the vocal folds can close
-vocalFolds.close();
-//  action 3:   the vocal folds can vibrate
-vocalFolds.vibrate();
+//  Noun:       code reviewer
+//  action 1:   the code reviewer reviews code
+codeReviewer.reviewCode();
+//  action 2:   the code reviewer request changes
+codeReviewer.requestChanges();
+//  action 3:   the code reviewer approves pull request
+codeReviewer.approvePullRequest();
 
 //  10)
 //  Noun:        AI
