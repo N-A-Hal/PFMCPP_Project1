@@ -52,84 +52,97 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:       PC
+//  action 1:   the PC boots up
+PC.bootUp();
+//  action 2:   the PC runs a program
+PC.runProgram();
+//  action 3:   the PC shuts down
+PC.shutDown();
 
-//  action 2:
 
-//  action 3:
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:       rifle
+//  action 1:   the rifle fires
+rifle.fire();
+//  action 2:   the rifle ejects an empty casing
+rifle.ejectEmptyCasing();
+//  action 3:   the rifle loads next bullet from a magazine
+rifle.loadNextBullet();
 
-//  action 2:
-
-//  action 3:
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       policeman
+//  action 1:   the policeman arrests a criminal
+policeman.arrest();
+//  action 2:   the policeman chases a criminal
+policeman.chase();
+//  action 3:   the policeman shoots a criminal
+policeman.shoot();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       professor
+//  action 1:   the professor teaches a class
+professor.teach();
+//  action 2:   the professor grades a student
+professor.grade();
+//  action 3:   the professor conducts a research study
+professor.conductResearchStudy();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        phone
+//  action 1:    the phone connects to wi-fi
+phone.connectToWiFi();
+//  action 2:    the phone makes a call
+phone.makeCall();
+//  action 3:    the phone plays a song
+phone.playSong();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        star
+//  action 1:    the star shines
+star.shine();
+//  action 2:    the star can become a supernova
+star.becomeSupernova();
+//  action 3:    the star can collapse into a black hole
+star.collapseIntoBlackHole();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog wags its tail
+dog.wagTail();
+//  action 3:    the dog chases a cat
+dog.chaseCat();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        atom
+//  action 1:    the atom can move to a higher energy level
+atom.moveToHigherEnergyLevel();
+//  action 2:    the atom can absorb energy
+atom.absorbEnergy();
+//  action 3:    the atom can emit radiation
+atom.emitRadiation();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       code reviewer
+//  action 1:   the code reviewer reviews code
+codeReviewer.reviewCode();
+//  action 2:   the code reviewer request changes
+codeReviewer.requestChanges();
+//  action 3:   the code reviewer approves pull request
+codeReviewer.approvePullRequest();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        AI
+//  action 1:    the AI can exterminate humans
+AI.exterminateHumans();
+//  action 2:    the AI can help to write out 10 nouns
+AI.helpToWrite10Nouns();
+//  action 3:    the AI can analyze data
+AI.analyzeData();
 
 
 
